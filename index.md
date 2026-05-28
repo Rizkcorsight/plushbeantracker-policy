@@ -21,8 +21,8 @@ Plush Bean Tracker collects nothing. Your collection, your photos,
 your ratings, and your purchase log live on your device. There are
 no servers, no accounts, no logins. The app does not talk to
 advertisers, analytics services, or any third-party data processor.
-Plush Bean Tracker is a one-time paid app — no subscription, no
-ads, no in-app purchases, no tracking.
+Plush Bean Tracker has no subscription, no ads, no tracking, and no
+third-party data processing.
 
 ## What's stored on your device
 
@@ -60,8 +60,8 @@ ads, no in-app purchases, no tracking.
 ## Camera and photo library
 
 The app asks for camera and photo library access only when you tap
-"Add your own photo" on a plush. iOS shows you the system permission
-prompt. If you allow access, any photo you pick is copied into the
+"Add your own photo" on a plush. Your device shows the system
+permission prompt. If you allow access, any photo you pick is copied into the
 app's private App Group container and tagged with a random identifier.
 The original photo in your photo library is not modified or deleted.
 
@@ -82,9 +82,8 @@ collection in place.
 
 There are none. Plush Bean Tracker does not embed any third-party
 analytics SDK, advertising SDK, attribution SDK, or telemetry SDK.
-The app's Privacy Manifest (`PrivacyInfo.xcprivacy`) declares no
-data collection and no tracking. Apple's App Privacy nutrition
-label reflects "Data Not Collected."
+The app's store privacy declarations reflect no data collection and
+no tracking.
 
 ## Children's privacy
 
@@ -108,19 +107,20 @@ is straightforward:
 - **Right to opt out of sale**: not applicable — nothing is sold,
   shared, or transmitted.
 
-## App Store purchases
+## Store purchases
 
-The one-time $1.99 purchase is processed by Apple's App Store.
+If you buy Plush Bean Tracker through an app store, that store
+processes the purchase and any receipt, refund, or tax records.
 Plush Bean Tracker does not receive or store your payment card
-details. Refer to Apple's privacy policy for App Store transactions:
-<https://www.apple.com/legal/privacy/>
+details, billing address, store account details, or transaction
+history.
 
 ## Changes to this policy
 
 If this policy changes, the updated version will be posted at this
 URL and the "Last updated" date above will be revised. Material
 changes that affect data handling will also be communicated via
-the App Store "What's New" notes for the next app update.
+the store release notes for the next app update.
 
 ## Contact
 
